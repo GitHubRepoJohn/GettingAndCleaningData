@@ -19,6 +19,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 (If the zip file, or path to the zip file changes, then edit lines 6/7 accordingly).
 
 "get_data.R" creates a sub-directory "data", and populates it with the data required by "run_analysis.R"
+
 The "README.txt" file downloaded contains details of the "Human Activity Recognition Using Smartphones Dataset"
 recorded as part of the experiments carried out by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
