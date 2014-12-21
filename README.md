@@ -33,9 +33,9 @@ run_analysis.R:
 
   should be run in the "data" directory
 
-  reads in various data files from the "data" directory
+  reads in various data files from the "data" directory 
 
-  outputs a tidy data set to file "tidydata"        # dataframe of dimensions [10,299 x 81 ]
+  outputs a tidy data set to file "tidydata"                    # dataframe of dimensions [10,299 x 81 ]
   
 tidydata
 ========
