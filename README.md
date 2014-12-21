@@ -30,13 +30,20 @@ run_analysis.R
 ==============
 
 run_analysis.R:
+
   should be run in the "data" directory
+
   reads in various data files from the "data" directory
-  outputs a tidy data set to file "tidydata"
+
+  outputs a tidy data set to file "tidydata"        # dataframe of dimensions [10,299 x 81 ]
   
 tidydata
 ========
 
+tidydata is written using write.table, and can be loaded back into R by simple read.table:
+d <- read.table(url(address), header = TRUE)
 
+then viewed by:
+View(d)
 
 
