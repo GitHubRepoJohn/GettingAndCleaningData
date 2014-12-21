@@ -42,7 +42,7 @@ tidydata
 
 tidydata is written using write.table, and can therefore be loaded back into R by simple read.table:
 
-d <- read.table(url(address), header = TRUE)
+d <- read.table("tidydata", header = TRUE)
 
 then viewed by:
 View(d)
