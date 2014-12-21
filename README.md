@@ -3,8 +3,6 @@ Getting And Cleaning Data
 
 Repo for Coursera "Getting And Cleaning Data" - December 2014
 
-Repo for Getting And Cleaning Data
-
 R Source file: "get_data.R"
 
 R Source file: "run_analysis.R"
