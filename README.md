@@ -11,7 +11,7 @@ R Source file: "run_analysis.R"
 
 get_data.R:
 ===========
-If you have not already downloaded the data required for the pproject analysis, then:
+If you have not already downloaded the data required for the project analysis, then:
 
 Running "get_data.R" in R Studio downloads and unpacks the source data currently stored at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
