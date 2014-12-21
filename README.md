@@ -29,6 +29,14 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 run_analysis.R
 ==============
 
+run_analysis.R:
+  should be run in the "data" directory
+  reads in various data files from the "data" directory
+  outputs a tidy data set to file "tidydata"
+  
+tidydata
+========
+
 
 
 
