@@ -16,7 +16,7 @@ If you have not already downloaded the data required for the project analysis, t
 Running "get_data.R" in R Studio downloads and unpacks the source data currently stored at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-(If the zip file, or path to the zip file changes, then edit lines 6/7 accordingly).
+(If the zip file, or path to the zip file changes, then edit lines get_data.R 6/7 accordingly).
 
 "get_data.R" creates a sub-directory "data", and populates it with the data required by "run_analysis.R"
 
