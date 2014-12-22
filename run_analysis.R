@@ -1,5 +1,4 @@
-# run_analysis.R script  
-
+# run_analysis.R script
 library(dplyr)
 
 # 0. read in inter-related data sets - data downloaded 21/12/2014
@@ -55,6 +54,4 @@ colnames(subject)[1] <- "Subject"
 data <- tbl_df(cbind(cbind(subject,activity),data))                          #[10,299 x 81]
         
 # Write out the data
-write.table(data,"tidydata")
-
-
+write.table(data,"tidydata.txt",row.name=FALSE)
